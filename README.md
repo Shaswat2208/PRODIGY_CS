@@ -1,3 +1,6 @@
+
+---
+
 # Caesar Cipher
 
 This Python script implements the Caesar Cipher, a simple encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
@@ -66,6 +69,3 @@ The `caesar_cipher` function in `caesar_cipher.py` takes three parameters:
 Feel free to explore and modify the script for your own use cases!
 
 ---
-
-Adjust the URLs, usernames, and any specifics to fit your actual GitHub repository details. This README provides a brief overview of the script's purpose, how to use it, an example of its output, and key functionalities.
-# PRODIGY_CS_03
