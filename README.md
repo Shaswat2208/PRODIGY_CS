@@ -70,4 +70,4 @@ Feel free to explore and modify the script for your own use cases!
 
 ---
 
-#PRODIGY_CS_01
+# PRODIGY_CS_01
