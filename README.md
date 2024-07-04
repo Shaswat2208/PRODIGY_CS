@@ -66,7 +66,6 @@ The `caesar_cipher` function in `caesar_cipher.py` takes three parameters:
 - Only alphabetic characters (both uppercase and lowercase) are shifted.
 - The shift value wraps around the alphabet using modulo arithmetic.
 
-Feel free to explore and modify the script for your own use cases!
 
 ---
 
